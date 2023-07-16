@@ -3,23 +3,23 @@ hyperskill_project:
   ide_files: https://cogniterra.org/media/attachments/lesson/25375/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Wed, 12 Jul 2023 20:17:19 UTC"
+update_date: "Sun, 16 Jul 2023 19:41:46 UTC"
 stages:
 - id: 839
   step: 12313
   is_completed: true
 - id: 840
   step: 12314
-  is_completed: false
+  is_completed: true
 - id: 841
   step: 12315
-  is_completed: false
+  is_completed: true
 - id: 842
   step: 12316
-  is_completed: false
+  is_completed: true
 - id: 843
   step: 12317
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Introduction to Python
@@ -82,10 +82,10 @@ topics:
     theory_id: 5814
   - title: String formatting
     theory_id: 6037
-  - title: Indexes
-    theory_id: 6189
   - title: Arguments
     theory_id: 7248
+  - title: Indexes
+    theory_id: 6189
   - title: Operations with list
     theory_id: 6031
   - title: Functional decomposition
@@ -105,10 +105,10 @@ topics:
     theory_id: 8077
   - title: Objects in Python
     theory_id: 9262
-  - title: List comprehension
-    theory_id: 6315
   - title: Default arguments
     theory_id: 10295
+  - title: List comprehension
+    theory_id: 6315
   - title: Lambda functions
     theory_id: 7092
   4:
